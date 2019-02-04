@@ -1,2 +1,2 @@
 # sharing 
-#this was programmed with R but Jupiter notebook does not support R coding export.
+#this was programmed with R but Github does not support R coding export from Jupiter notebook.
